@@ -9,9 +9,6 @@ This project is a Java-based Selenium web automation framework designed to autom
 - **Screenshot Capture**: Automatically captures screenshots on test failures.
 - **Retry Mechanism**: Re-runs failed test cases to handle intermittent issues.
 - **HTML Report Generation**: Provides detailed test execution reports.
-- **Parallel Testing**: Supports running tests in parallel to reduce execution time.
-- **Cross-Browser Capabilities**: Enables testing across different browsers.
-- **Logging**: Facilitates debugging by logging test execution details.
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
