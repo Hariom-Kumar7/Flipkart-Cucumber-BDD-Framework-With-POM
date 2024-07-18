@@ -21,3 +21,5 @@ This project is a Java-based Selenium web automation framework designed to autom
 ```bash
 git clone https://github.com/your-repo/flipkart-cucumber.git
 cd flipkart-cucumber
+
+ Note - for more information you need to check Readme.md file
