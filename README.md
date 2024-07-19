@@ -14,9 +14,11 @@ This project is a Java-based Selenium web automation framework designed to autom
 
 [Project Report](https://github.com/Hariom-Kumar7/Flipkart-Cucumber-BDD-Framework-With-POM/blob/main/ReadMe.md/Project%20Report%20alphbin.pdf)
 
-- ** Project report contains all the information like, Project Structure, About the Pass and Failed test cases
+- Project report contains all the information like, Project Structure, About the Pass and Failed test cases
 
 [Test result screenshots](https://github.com/Hariom-Kumar7/Flipkart-Cucumber-BDD-Framework-With-POM/blob/main/ReadMe.md/TestResult.png)
+
+- Here available screenshots 
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
